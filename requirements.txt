@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+pillow
+scikit-learn
+tqdm
+matplotlib
+visdom
+opencv-python-headless
+tensorboard
+scikit-learn
+tqdm
+matplotlib
+pyyaml
+wandb
