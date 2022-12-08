@@ -1,5 +1,5 @@
 ## Doubly Contrastive Semantic Segmentation
-- PyTorch code for the paper: Doubly Contrastive End-to-End Semantic Segmentation for Autonomous Driving under Adverse Weather
+- PyTorch code for the paper: Doubly Contrastive End-to-End Semantic Segmentation for Autonomous Driving under Adverse Weather (BMVC 2022)
 
 [Project Page](https://bmvc2022.mpi-inf.mpg.de/460/) / [PDF](https://bmvc2022.mpi-inf.mpg.de/0460.pdf) / [Poster](https://bmvc2022.mpi-inf.mpg.de/0460_poster.pdf)
 
